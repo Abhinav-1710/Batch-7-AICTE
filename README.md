@@ -89,6 +89,13 @@ Batch-7 AICTE
 
 ---
 
+## 🚀 Live Demo
+
+🔗 Streamlit App:
+https://batch-7-aicte-ebpkqbfqkfhnmmqq52ngzs.streamlit.app
+
+---
+
 ## 📄 License
 
 This project is developed for academic purposes under AICTE Batch-7.
